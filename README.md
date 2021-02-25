@@ -29,7 +29,7 @@ The following tools were used in the construction of the project:
 ```
 # Clone repository
 
-$ git clone https://github.com/CaioSilveiraTelles/move.it.git
+$ git clone hhttps://github.com/CaioSilveiraTelles/NLW.Move-it.git
 ```
 
 ```
