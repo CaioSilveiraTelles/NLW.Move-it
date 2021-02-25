@@ -3,13 +3,13 @@
 </h1>
 
 
-<h1 align="center">
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
 ![GitHub contributors](https://img.shields.io/github/forks/CaioSilveiraTelles/NLW.Move-it)
 ![GitHub stars](https://img.shields.io/github/stars/CaioSilveiraTelles/NLW.Move-it)
 ![GitHub forks](https://img.shields.io/github/license/CaioSilveiraTelles/NLW.Move-it)
 
-</h1>
+
 
 <h1 align="center">
   <img width="750" style="border-radius: 10px" height="auto" alt="NLW" title="#NLW" src="public/Wallpaper - 1920c1080.png" />
