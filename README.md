@@ -21,11 +21,12 @@ The following tools were used in the construction of the project:
 - [Git Bash](https://gitforwindows.org/)
 
 
-### How to run the app locally 🤔
+
 <h1 align="center">
   <img width="500" style="border-radius: 10px" height="auto" alt="MoveIt" title="#Demo" src="public/index.png" />
 </h1>
 
+### How to run the app locally 🤔
 ```
 # Clone repository
 
