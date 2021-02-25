@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-  <img width="1000" style="border-radius: 10px" height="auto" alt="NLW" title="#NLW" src="public/Wallpaper - 1920c1080.png" />
+  <img width="750" style="border-radius: 10px" height="auto" alt="NLW" title="#NLW" src="public/Wallpaper - 1920c1080.png" />
 </h1>
    
 </h1>
