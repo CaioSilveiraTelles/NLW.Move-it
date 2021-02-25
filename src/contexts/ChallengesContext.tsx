@@ -1,4 +1,4 @@
-import { createContext, useState, ReactNode, useEffect } from "react";
+import { createContext, useState, ReactNode, useEffect, useContext } from "react";
 
 import challenges from "../../challenges.json";
 
@@ -47,6 +47,7 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
   function startNewChallenge() {
     const randomChallengeIndex = Math.floor(Math.random() * challenges.length);
     const newChallenge = challenges[randomChallengeIndex];
+
     
     setActiveChallenge(newChallenge);
 
@@ -54,7 +55,7 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
 
     if (Notification.permission === 'granted'){
       new Notification ('Novo Desafio' , {
-      body: `Valendo ${challenges.experience} xp! `
+      body: `Valendo ${experience} xp! `
       })
     }
   }
