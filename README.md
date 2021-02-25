@@ -22,7 +22,7 @@ The following tools were used in the construction of the project:
 
 
 <h1 align="center">
-     <a href="https://nlw-move-it.vercel.app/">#Demo Online</a>
+     <a href="https://nlw-move-it.vercel.app/" target="_blank">Click to Visit Demo Online</a>
 </h1>
 
 <h1 align="center">
