@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <ChallengesProvider>
       <CountDownProvider>
-      <Component {...pageProps} />;
+        <Component {...pageProps} />;
       </CountDownProvider>
     </ChallengesProvider>
   );

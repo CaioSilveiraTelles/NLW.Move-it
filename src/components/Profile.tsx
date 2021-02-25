@@ -6,9 +6,6 @@ export function Profile() {
     const { data } = useContext(ChallengesContext);
     const { level} = data;
     
-  
-
-
     return (
         <div className={styles.profileContainer} >
             <img src="/profile.jpg" alt="Avatar"/>
