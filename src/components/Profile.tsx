@@ -15,6 +15,8 @@ export function Profile() {
                     <img src="/icons/level.svg" alt="Level Icon"/>
                  Level {level}</p>
             </div>
+
+          
         </div>
     )
 }
