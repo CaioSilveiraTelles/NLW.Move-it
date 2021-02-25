@@ -1,8 +1,9 @@
-
-<align="center">
-   NLW#4 event.
+<h1 align="center">
+    NLW#4 Event
 </h1>
-<p align="center">  fourth edition of Rocketseat Next Level Week </p>
+   
+</h1>
+<p align="center"> Fourth edition of Rocketseat Next Level Week </p>
 
 <h1 align="center">
   <img width="500" style="border-radius: 10px" height="auto" alt="MoveIt" title="#MoveIt" src="public/logo-full.svg" />
