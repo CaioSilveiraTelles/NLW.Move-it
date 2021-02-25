@@ -23,7 +23,7 @@ The following tools were used in the construction of the project:
 
 ### How to run the app locally 🤔
 <h1 align="center">
-  <img width="500" style="border-radius: 10px" height="auto" alt="MoveIt" title="#MoveIt" src="public/index.png" />
+  <img width="500" style="border-radius: 10px" height="auto" alt="MoveIt" title="#Demo" src="public/index.png" />
 </h1>
 
 ```
