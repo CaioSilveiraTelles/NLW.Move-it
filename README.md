@@ -1,3 +1,8 @@
+
+<h1 align="center">
+  <img width="500" style="border-radius: 10px" height="auto" alt="NLW" title="#NLW" src="Wallpaper - 1920c1080.png" />
+</h1>
+
 <h1 align="center">
     NLW#4 Event
 </h1>
