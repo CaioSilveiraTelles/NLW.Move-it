@@ -47,7 +47,6 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
   function startNewChallenge() {
     const randomChallengeIndex = Math.floor(Math.random() * challenges.length);
     const newChallenge = challenges[randomChallengeIndex];
-
     
     setActiveChallenge(newChallenge);
 
@@ -55,7 +54,7 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
 
     if (Notification.permission === 'granted'){
       new Notification ('Novo Desafio' , {
-      body: `Valendo ${activeChallenge.amount} xp! `
+      body: `Valendo ${newChallenge.amount} xp! `
       })
     }
   }
