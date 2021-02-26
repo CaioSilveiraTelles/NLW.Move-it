@@ -1,14 +1,14 @@
 /* eslint-disable react/prop-types */
-import Head from 'next/head'
-import ExperienceBar from '../components/ExperienceBar'
-import Profile from '../components/Profile'
-import CompletedChallenges from '../components/CompletedChallenges'
-import Countdown from '../components/Countdown'
-import ChallengeBox from '../components/ChallengeBox'
-import styles from '../styles/pages/Home.module.css'
-import { CountdownProvider } from '../contexts/CountdownContext'
-import { ChallengesProvider } from '../contexts/ChallengesContext'
-import { GetServerSideProps } from 'next'
+import Head from "next/head"
+import ExperienceBar from "../components/ExperienceBar"
+import Profile from "../components/Profile"
+import CompletedChallenges from "../components/CompletedChallenges"
+import Countdown from "../components/Countdown"
+import ChallengeBox from "../components/ChallengeBox"
+import styles from "../styles/pages/Home.module.css"
+import { CountdownProvider } from "../contexts/CountdownContext"
+import { ChallengesProvider } from "../contexts/ChallengesContext"
+import { GetServerSideProps } from "next"
 //
 interface HomeProps {
   level: number

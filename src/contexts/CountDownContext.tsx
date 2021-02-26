@@ -4,8 +4,8 @@ import React, {
   useContext,
   useEffect,
   useState
-} from 'react'
-import { ChallengesContext } from './ChallengesContext'
+} from "react"
+import { ChallengesContext } from "./ChallengesContext"
 
 interface CountdownContextData {
   minutes: number
