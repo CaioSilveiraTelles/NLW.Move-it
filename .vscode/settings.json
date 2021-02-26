@@ -1,4 +1,3 @@
 {
-    "git.ignoreLimitWarning": true,
-    "totvsLanguageServer.welcomePage": false
+    "git.ignoreLimitWarning": true
 }
