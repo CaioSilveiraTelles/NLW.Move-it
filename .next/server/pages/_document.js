@@ -877,7 +877,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_document__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/document */ "./node_modules/next/document.js");
 /* harmony import */ var next_document__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_document__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "C:\\Users\\caio.telles\\move-it\\src\\pages\\_document.tsx";
+var _jsxFileName = "C:\\Users\\caio.telles\\NLW.Move-it\\src\\pages\\_document.tsx";
 
 class MyDocument extends next_document__WEBPACK_IMPORTED_MODULE_1___default.a {
   render() {
