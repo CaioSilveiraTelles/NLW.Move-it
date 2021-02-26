@@ -122,7 +122,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_components_ChallengeBox_module_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../styles/components/ChallengeBox.module.css */ "./src/styles/components/ChallengeBox.module.css");
 /* harmony import */ var _styles_components_ChallengeBox_module_css__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_styles_components_ChallengeBox_module_css__WEBPACK_IMPORTED_MODULE_4__);
 
-var _jsxFileName = "C:\\Users\\caio.telles\\move.it\\src\\components\\ChallengeBox.tsx";
+var _jsxFileName = "C:\\Users\\caio.telles\\NLW.Move-it\\src\\components\\ChallengeBox.tsx";
 
 
 
@@ -267,7 +267,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_components_CompletedChallenges_module_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../styles/components/CompletedChallenges.module.css */ "./src/styles/components/CompletedChallenges.module.css");
 /* harmony import */ var _styles_components_CompletedChallenges_module_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_styles_components_CompletedChallenges_module_css__WEBPACK_IMPORTED_MODULE_3__);
 
-var _jsxFileName = "C:\\Users\\caio.telles\\move.it\\src\\components\\CompletedChallenges.tsx";
+var _jsxFileName = "C:\\Users\\caio.telles\\NLW.Move-it\\src\\components\\CompletedChallenges.tsx";
 
 
 
@@ -320,7 +320,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_components_Countdown_module_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_styles_components_Countdown_module_css__WEBPACK_IMPORTED_MODULE_3__);
 
 
-var _jsxFileName = "C:\\Users\\caio.telles\\move.it\\src\\components\\Countdown.tsx";
+var _jsxFileName = "C:\\Users\\caio.telles\\NLW.Move-it\\src\\components\\Countdown.tsx";
 
 
 
@@ -443,7 +443,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_components_ExperiencesBar_module_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../styles/components/ExperiencesBar.module.css */ "./src/styles/components/ExperiencesBar.module.css");
 /* harmony import */ var _styles_components_ExperiencesBar_module_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_styles_components_ExperiencesBar_module_css__WEBPACK_IMPORTED_MODULE_3__);
 
-var _jsxFileName = "C:\\Users\\caio.telles\\move.it\\src\\components\\ExperienceBar.tsx";
+var _jsxFileName = "C:\\Users\\caio.telles\\NLW.Move-it\\src\\components\\ExperienceBar.tsx";
 
 
 
@@ -521,7 +521,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_components_LevelUpModal_module_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../styles/components/LevelUpModal.module.css */ "./src/styles/components/LevelUpModal.module.css");
 /* harmony import */ var _styles_components_LevelUpModal_module_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_styles_components_LevelUpModal_module_css__WEBPACK_IMPORTED_MODULE_3__);
 
-var _jsxFileName = "C:\\Users\\caio.telles\\move.it\\src\\components\\LevelUpModal.tsx";
+var _jsxFileName = "C:\\Users\\caio.telles\\NLW.Move-it\\src\\components\\LevelUpModal.tsx";
 
 
 
@@ -602,7 +602,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_components_Profile_module_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../styles/components/Profile.module.css */ "./src/styles/components/Profile.module.css");
 /* harmony import */ var _styles_components_Profile_module_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_styles_components_Profile_module_css__WEBPACK_IMPORTED_MODULE_3__);
 
-var _jsxFileName = "C:\\Users\\caio.telles\\move.it\\src\\components\\Profile.tsx";
+var _jsxFileName = "C:\\Users\\caio.telles\\NLW.Move-it\\src\\components\\Profile.tsx";
 
 
 
@@ -678,7 +678,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _challenges_json__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../challenges.json */ "./challenges.json");
 var _challenges_json__WEBPACK_IMPORTED_MODULE_4___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../challenges.json */ "./challenges.json", 1);
 
-var _jsxFileName = "C:\\Users\\caio.telles\\move.it\\src\\contexts\\ChallengesContext.tsx";
+var _jsxFileName = "C:\\Users\\caio.telles\\NLW.Move-it\\src\\contexts\\ChallengesContext.tsx";
 
 function _objectWithoutProperties(source, excluded) { if (source == null) return {}; var target = _objectWithoutPropertiesLoose(source, excluded); var key, i; if (Object.getOwnPropertySymbols) { var sourceSymbolKeys = Object.getOwnPropertySymbols(source); for (i = 0; i < sourceSymbolKeys.length; i++) { key = sourceSymbolKeys[i]; if (excluded.indexOf(key) >= 0) continue; if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue; target[key] = source[key]; } } return target; }
 
@@ -814,7 +814,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _ChallengesContext__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./ChallengesContext */ "./src/contexts/ChallengesContext.tsx");
 
-var _jsxFileName = "C:\\Users\\caio.telles\\move.it\\src\\contexts\\CountdownContext.tsx";
+var _jsxFileName = "C:\\Users\\caio.telles\\NLW.Move-it\\src\\contexts\\CountdownContext.tsx";
 
 
 const CountdownContext = /*#__PURE__*/Object(react__WEBPACK_IMPORTED_MODULE_1__["createContext"])({});
@@ -905,7 +905,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _contexts_CountdownContext__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../contexts/CountdownContext */ "./src/contexts/CountdownContext.tsx");
 /* harmony import */ var _contexts_ChallengesContext__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../contexts/ChallengesContext */ "./src/contexts/ChallengesContext.tsx");
 
-var _jsxFileName = "C:\\Users\\caio.telles\\move.it\\src\\pages\\index.tsx";
+var _jsxFileName = "C:\\Users\\caio.telles\\NLW.Move-it\\src\\pages\\index.tsx";
 
 /* eslint-disable react/prop-types */
 
