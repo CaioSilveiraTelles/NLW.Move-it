@@ -39,7 +39,7 @@ The following tools were used in the construction of the project:
 </h1>
 
 <h1 align="center">
- <img src=public/gif.gif  />
+ <img src=public/Demo.gif  />
 </h1>
 
 ### How to run the app locally 🤔
